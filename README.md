@@ -17,4 +17,4 @@ Unsere Grundidee basiert auf einem "Jump and Run"-Spiel, in welchem eine Figur i
 </details>
 
 <h3 id="kapitel3.3">Ergebnis</h3>
-Unser 2D-Spiel ist ein "Jump and Run"-Spiel geworden.
+Unser 2D-Spiel ist ein "Jump and Run"-Spiel geworden
