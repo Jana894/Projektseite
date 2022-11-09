@@ -28,6 +28,7 @@ Programmierung allgemeiner Befehle
 
 ![Screenshot Snap](Bilder/screenshot_snap_41.png "Screenshot Snap")
 ![Screenshot Snap](Bilder/screenshot_snap_45.png "Screenshot Snap")
+  
 ![Screenshot Snap](Bilder/screenshot_snap_23.png "Screenshot Snap")
 
 Programmierung Level 1
