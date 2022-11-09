@@ -24,5 +24,15 @@ So ist im ersten Level das Ziel, die Zielflagge zu erreichen, in dem man von Hin
 
 <details id="Link"><summary>Level</summary>
 
+Programmierung der "Stage"
+
+![Screenshot Snap](Bilder/screenshot_snap_38.png "Screenshot Snap")
+![Screenshot Snap](Bilder/screenshot_snap_41.png "Screenshot Snap")
+![Screenshot Snap](Bilder/screenshot_snap_42.png "Screenshot Snap")
+![Screenshot Snap](Bilder/screenshot_snap_43.png "Screenshot Snap")
+![Screenshot Snap](Bilder/screenshot_snap_44.png "Screenshot Snap")
+
+Programmierung der "Sprites"
+
 
 </details>
