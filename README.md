@@ -21,3 +21,8 @@ Unsere Grundidee basiert auf einem "Jump and Run"-Spiel, in welchem eine Figur i
 <h3 id="kapitel3.3">Ergebnis</h3>
 Unser 2D-Spiel ist ein "Jump and Run"-Spiel mit vier verschiedenen Leveln geworden. Pro Level kommt ein neues Element hinzu, welches das Level anspruchsvoller und spannnender gestalten soll.
 So ist im ersten Level das Ziel, die Zielflagge zu erreichen, in dem man von Hindernis zu Hindernis springt, was im ersten Moment noch nicht allzu schwierig erscheint. Im zweiten Level dann, haben wir noch ein Feuer eingebaut, in welchem die Figur verbrennt, sobald sie es berührt und das Level von vorne beginnen muss. Im dritten Level ist das Ziel zwei Münzen einzusammeln, wobei wir drei Münzen eingebau haben, damit man mehrere Kombinationsmöglichkeiten hat. Sind die zwei Münzen eingesammelt ist das Level geschafft und man wird weiter geleitet.
+
+<details id="Link"><summary>Level</summary>
+
+
+</details>
