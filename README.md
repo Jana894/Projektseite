@@ -22,17 +22,33 @@ Unsere Grundidee basiert auf einem "Jump and Run"-Spiel, in welchem eine Figur i
 Unser 2D-Spiel ist ein "Jump and Run"-Spiel mit vier verschiedenen Leveln geworden. Pro Level kommt ein neues Element hinzu, welches das Level anspruchsvoller und spannnender gestalten soll.
 So ist im ersten Level das Ziel, die Zielflagge zu erreichen, in dem man von Hindernis zu Hindernis springt, was im ersten Moment noch nicht allzu schwierig erscheint. Im zweiten Level dann, haben wir noch ein Feuer eingebaut, in welchem die Figur verbrennt, sobald sie es berührt und das Level von vorne beginnen muss. Im dritten Level ist das Ziel zwei Münzen einzusammeln, wobei wir drei Münzen eingebau haben, damit man mehrere Kombinationsmöglichkeiten hat. Sind die zwei Münzen eingesammelt ist das Level geschafft und man wird weiter geleitet.
 
-<details id="Link"><summary>Level</summary>
+<details id="Link"><summary>Ergebnis</summary>
 
-Programmierung der "Stage"
+Programmierung allgemeiner Befehle
 
 ![Screenshot Snap](Bilder/screenshot_snap_41.png "Screenshot Snap")
+![Screenshot Snap](Bilder/screenshot_snap_45.png "Screenshot Snap")
+![Screenshot Snap](Bilder/screenshot_snap_23.png "Screenshot Snap")
+
+Programmierung Level 1
+
 ![Screenshot Snap](Bilder/screenshot_snap_42.png "Screenshot Snap")
+![Screenshot Snap](Bilder/screenshot_snap_22.png "Screenshot Snap")
+
+Programmierung Level 2
+
 ![Screenshot Snap](Bilder/screenshot_snap_43.png "Screenshot Snap")
+![Screenshot Snap](Bilder/screenshot_snap_25.png "Screenshot Snap")
+
+Programmierung Level 3
+
 ![Screenshot Snap](Bilder/screenshot_snap_44.png "Screenshot Snap")
+![Screenshot Snap](Bilder/screenshot_snap_46.png "Screenshot Snap")
+![Screenshot Snap](Bilder/screenshot_snap_47.png "Screenshot Snap")
+
+Programmierung Level 4
+
 ![Screenshot Snap](Bilder/screenshot_snap_38.png "Screenshot Snap")
-
-Programmierung der "Sprites"
-
-
+![Screenshot Snap](Bilder/screenshot_snap_39.png "Screenshot Snap")
+![Screenshot Snap](Bilder/screenshot_snap_40.png "Screenshot Snap")
 </details>
