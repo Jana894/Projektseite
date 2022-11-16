@@ -54,3 +54,7 @@ Programmierung Level 4
 ![Screenshot Snap](Bilder/screenshot_snap_39.png "Screenshot Snap")
 ![Screenshot Snap](Bilder/screenshot_snap_40.png "Screenshot Snap")
 </details>
+
+<h3 id="kapitel3.4">Fazit</h3>
+Am Ende dieses sehr zeitaufwändigen und umfangreichen Projekt, können wir sagen, dass es trotz vieler Schwierigkeiten und so einigen Problemen, für die wir zum Glück alle eine Lösung gefunden haben, sehr viel Spaß gemacht hat etwas eigenes zu programmieren und am Ende dann auch ein Ergebnis vor Augen zu haben, mit dem wir sehr zufrieden sind. Denn dafür, dass wir beide vorher noch nie etwas programmiert haben, geschweige denn Vorkenntnisse hatten, sind wir sehr stolz darauf, dass wir unser eigenes 2D-Spiel programmiert haben und doch mehr umsetzen konnten, als wir uns am Anfang zugetraut haben.
+Unserer Meinung nach war der Informatikunterricht immer eine schöne Abwechslung zum Frontalunterricht, den man die restliche Woche über hat. Am Anfang war es zwar schwer, ganz ohne Imput und konkrete Vorgaben etwas zu finden, was man machen könnte, jedoch sind wir im Nachhinein fro darüber, dass wir unser eigenen Kreativität freien Lauf lassen konnten und tatsächlich überwiegend eigenständig arbeiten konnten. 
