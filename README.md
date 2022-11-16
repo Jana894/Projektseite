@@ -1,6 +1,7 @@
 <h1 id="Projektseite">
 
 <h2 id="kapitel3">3. Projektseite</h2>
+  
 ### Inhaltsverzeichnis
 <li><a href="#kapitel3.1">Programm</a></h2></li>
 <li><a href="#kapitel3.2">Idee</a></h2></li>
