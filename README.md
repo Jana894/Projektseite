@@ -1,6 +1,6 @@
 <h1 id="Projektseite">
 
-<h2 id="kapitel3">3. Projekt</h2>
+<h2 id="kapitel3">3. Projektseite</h2>
 
 <h3 id="kapitel3.1">Programm</h3>
 
