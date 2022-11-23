@@ -16,6 +16,8 @@ Für unser Projekt haben wir "Snap!" genutzt, da dieses Programm gerade für Anf
 
 Für die äußere Gestaltung haben wir uns mit dem Pixelzeichner ... beschäftigt und sind mit diesem sehr gut zurecht gekommen.
 
+![logo FL-Studio](Bilder/FL_Studio_Logo.jpg "Logo FL-Studio")
+
 <h2 id="kapitel3.2">Idee</h2>
 Unsere Grundidee basiert auf einem "Jump and Run"-Spiel, in welchem eine Figur in mehreren Leveln Hindernisse überwinden und zum Ziel gelangen muss. Hierbei ist es uns wichtig, dass die Figur weder von unten durch die Hindernisse hindurch darauf springen kann, noch von einem Hindernis zum nächsten Hindrnis in der Luft laufen kann. Es muss also eine Schwerkraft oder Gravitationskraft erstellt werden, genauso wie undurchdringbare Hindernisse.
 
