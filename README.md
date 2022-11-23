@@ -20,6 +20,7 @@ Für die äußere Gestaltung haben wir uns mit dem Pixelzeichner ... beschäftig
 Unsere Grundidee basiert auf einem "Jump and Run"-Spiel, in welchem eine Figur in mehreren Leveln Hindernisse überwinden und zum Ziel gelangen muss. Hierbei ist es uns wichtig, dass die Figur weder von unten durch die Hindernisse hindurch darauf springen kann, noch von einem Hindernis zum nächsten Hindrnis in der Luft laufen kann. Es muss also eine Schwerkraft oder Gravitationskraft erstellt werden, genauso wie undurchdringbare Hindernisse.
 
 <details id="Link"><summary>verworfene Ideen</summary>
+  
 - 2D-Spiel: Labyrinth -> Tierpaare müssen sich gegenseitig finden 
 
 - 2D-Spiel: Irrgarten -> farbige Kugel müssen durch ein Wirrwarr von Wegen den richtigen Weg in das Rohr ihrer eigenen Farbe finden
