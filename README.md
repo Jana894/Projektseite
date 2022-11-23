@@ -14,6 +14,9 @@
 
 Für unser Projekt haben wir "Snap!" genutzt, da dieses Programm gerade für Anfänger sehr gut geeignet und einfach zu verstehen ist. Bei "Snap!" wird keine "Programmiersprache" genutzt, sondern Bausteine, auf denen in Englisch steht, was passieren soll, wenn sie zusammengesetzt werden. Für Anfänger ist gerade dies von Vorteil, da man sich nicht erst in die "Programmiersprache" einarbeiten muss, sondern direkt anfangen kann und die Herausforderung "nur" ist, die Bausteine richtig zu kombinieren, um den gewünschten Befehl auszuführen. Wir mussten feststellen, dass es trotz dieser Vereinfacherung gar nicht so einfach ist, immer die richtigen Blöcke zukombinieren, um das gewünschte Ergebnis zu erzielen, jedoch haben wir immer eine Lösung gefunden und konnten weiterarbeiten und unsere Ideen umsetzten.
 
+
+![logo pixilart](Bilder/logo_pixilart.webg "Logo Pixilart")
+
 Für die äußere Gestaltung haben wir uns mit dem Pixelzeichner ... beschäftigt und sind mit diesem sehr gut zurecht gekommen.
 
 ![logo FL-Studio](Bilder/FL_Studio_Logo.jpg "Logo FL-Studio")
