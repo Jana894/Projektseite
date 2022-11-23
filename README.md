@@ -15,11 +15,13 @@
 Für unser Projekt haben wir "Snap!" genutzt, da dieses Programm gerade für Anfänger sehr gut geeignet und einfach zu verstehen ist. Bei "Snap!" wird keine "Programmiersprache" genutzt, sondern Bausteine, auf denen in Englisch steht, was passieren soll, wenn sie zusammengesetzt werden. Für Anfänger ist gerade dies von Vorteil, da man sich nicht erst in die "Programmiersprache" einarbeiten muss, sondern direkt anfangen kann und die Herausforderung "nur" ist, die Bausteine richtig zu kombinieren, um den gewünschten Befehl auszuführen. Wir mussten feststellen, dass es trotz dieser Vereinfacherung gar nicht so einfach ist, immer die richtigen Blöcke zukombinieren, um das gewünschte Ergebnis zu erzielen, jedoch haben wir immer eine Lösung gefunden und konnten weiterarbeiten und unsere Ideen umsetzten.
 
 
-![logo pixilart](Bilder/logo_pixilart.webg "Logo Pixilart")
+![logo pixilart](Bilder/logo_pixilart.webp "Logo Pixilart")
 
-Für die äußere Gestaltung haben wir uns mit dem Pixelzeichner ... beschäftigt und sind mit diesem sehr gut zurecht gekommen.
+Für die äußere Gestaltung haben wir uns mit dem Pixelzeichner "pixilart" beschäftigt und sind mit diesem sehr gut zurecht gekommen. Es handelt sich bei diesem Pixelzeichner um einen kostenlosen Onlinezeichner, der sehr einfach zu verstehen ist, weshalb wir schnell und ohne große Einarbeitung erste Ergebnisse erzielen konnten.
 
 ![logo FL-Studio](Bilder/FL_Studio_Logo.jpg "Logo FL-Studio")
+
+Für die Musik in unserem 2D-Spiel hat Bente sich zusammen mit ihrem Bruder mit "FL-Studio" beschäftigt.
 
 <h2 id="kapitel3.2">Idee</h2>
 Unsere Grundidee basiert auf einem "Jump and Run"-Spiel, in welchem eine Figur in mehreren Leveln Hindernisse überwinden und zum Ziel gelangen muss. Hierbei ist es uns wichtig, dass die Figur weder von unten durch die Hindernisse hindurch darauf springen kann, noch von einem Hindernis zum nächsten Hindrnis in der Luft laufen kann. Es muss also eine Schwerkraft oder Gravitationskraft erstellt werden, genauso wie undurchdringbare Hindernisse.
