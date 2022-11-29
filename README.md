@@ -36,6 +36,7 @@ Unsere Grundidee basiert auf einem "Jump and Run"-Spiel, in welchem eine Figur i
 <h2 id="kapitel3.3">Ergebnis</h2>
 Unser 2D-Spiel ist ein "Jump and Run"-Spiel mit vier verschiedenen Leveln geworden. Pro Level kommt ein neues Element hinzu, welches das Level anspruchsvoller und spannnender gestalten soll.
 So ist im ersten Level das Ziel, die Zielflagge zu erreichen, in dem man von Hindernis zu Hindernis springt, was im ersten Moment noch nicht allzu schwierig erscheint. Im zweiten Level dann, haben wir noch ein Feuer eingebaut, in welchem die Figur "verbrennt", sobald sie es berührt und das Level von vorne beginnen muss. Im dritten Level ist das Ziel zwei Münzen einzusammeln, wobei wir drei Münzen eingebaut haben, damit man mehrere Kombinationsmöglichkeiten hat. Sind die zwei Münzen eingesammelt ist das Level geschafft und man wird weiter geleitet. Im vierten und letzten Level dann, muss die Figur über Mauern springen, um ans Ziel zu gelangen, wobei wir auch hier ein Feuer eingebaut haben, welches die Figur, sobald sie es brührt, zwingt von vorne zu beginnen.
+Das Thema unseres 2D-Spiels ist "Dschungel", jedes Level variiert hiebei ein bisschen und Level 4 stellt das Ende des Dschungels dar, weil schon erste Mauern zu finden sind und auf den Felsen (Ebenen) nur noch ein bisschen Moos wächst und keine Lianen mehr hängen.
 
 <details id="Link"><summary>Ergebnis</summary>
 
