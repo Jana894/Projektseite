@@ -79,12 +79,16 @@ Nachdem man ein Level beendet hat, gelangt man zum "Stage Costume" "Level ... ge
 
 <details id="Link"><summary>Erklärung Level 2</summary>
 
+![Levelbutton](Bilder/Programmierung_Levelbutton_III.png "Levelbutton")
+
 ![Level 2](Bilder/Programmierung_Level2_I.png "Level 2")
 
 ![Level 2](Bilder/Programmierung_Level2_II.png "Level 2")
 </details>
 
 <details id="Link"><summary>Erklärung Level 3</summary>
+
+![Levelbutton](Bilder/Programmierung_Levelbutton_IV.png "Levelbutton")
 
 ![Level 3](Bilder/Programmierung_Level3_I.png "Level 3")
 
@@ -94,6 +98,8 @@ Nachdem man ein Level beendet hat, gelangt man zum "Stage Costume" "Level ... ge
 </details>
 
 <details id="Link"><summary>Erklärung Level 4</summary>
+
+![Levelbutton](Bilder/Programmierung_Levelbutton_V.png "Levelbutton")
 
 ![Level 4](Bilder/Programmierung_Level4_I.png "Level 4")
 
