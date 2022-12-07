@@ -40,7 +40,7 @@ Das Thema unseres 2D-Spiels ist "Dschungel", Level 1 bis 3 stellen hierbei den D
 
 <details id="Link"><summary>Erklärung Ergebnis</summary>
 
-Unsere Figur bewegt sich, indem man sie mit den Tasten "a, d, w" steuert. Mit der "d"-Taste geht die Figur nach vorne, mit der "a"-Taste wieder zurück und druckt man die "w"-Taste, springt unsere Figur. Am Anfang jedes Levels muss man die "Leertaste" drücken, damit sich die Figur auf ihre Startposition begibt, welche sich bei x: y: befindet.
+Unsere Figur bewegt sich, indem man sie mit den Tasten "a, d, w" steuert. Mit der "d"-Taste geht die Figur nach vorne, mit der "a"-Taste wieder zurück und druckt man die "w"-Taste, springt unsere Figur. Am Anfang jedes Levels muss man die "Leertaste" drücken, damit sich die Figur auf ihre festgelegte Startposition begibt, welche sich bei x: -206 y:-107 befindet.
 
 ![Figur](Bilder/Bewegungen_der_Figur.png "Figur")
 
