@@ -40,43 +40,52 @@ Das Thema unseres 2D-Spiels ist "Dschungel", Level 1 bis 3 stellen hierbei den D
 
 <details id="Link"><summary>Erklärung Ergebnis</summary>
 
+<details id="Link"><summary>Erklärung Figur</summary>
+
 Unsere Figur bewegt sich, indem man sie mit den Tasten "a, d, w" steuert. Mit der "d"-Taste geht die Figur nach vorne, mit der "a"-Taste wieder zurück und druckt man die "w"-Taste, springt unsere Figur. Am Anfang jedes Levels muss man die "Leertaste" drücken, damit sich die Figur auf ihre festgelegte Startposition begibt, welche sich bei x: -206 y:-122 befindet.
 
 ![Figur](Bilder/Bewegungen_der_Figur.png "Figur")
+</details>
 
-Programmierung Musik
+<details id="Link"><summary>Erklärung Musik</summary>
 
 ![Musik](Bilder/Programmierung_Musik.png "Musik")
+</details>
 
-Programmierung allgemeine Befehle
+<details id="Link"><summary>Erklärung allgemeine Befehle</summary>
 
 ![allgemeine Befehle](Bilder/Programmierung_allgemeiner_Befehle.png "allgemeine Befehle")
+</details>
 
-Programmierung Level 1
+<details id="Link"><summary>Erklärung Level 1</summary>
 
 ![Level 1](Bilder/Programmierung_Level1_I.png "Level 1")
 
 ![Level 1](Bilder/Programmierung_Level1_II.png "Level 1")
+</details>
 
-Programmierung Level 2
+<details id="Link"><summary>Erklärung Level 2</summary>
 
 ![Level 2](Bilder/Programmierung_Level2_I.png "Level 2")
 
 ![Level 2](Bilder/Programmierung_Level2_II.png "Level 2")
+</details>
 
-Programmierung Level 3
+<details id="Link"><summary>Erklärung Level 3</summary>
 
 ![Level 3](Bilder/Programmierung_Level3_I.png "Level 3")
 
 ![Level 3](Bilder/Programmierung_Level3_II.png "Level 3")
 
 ![Münzen](Bilder/Programmierung_Münzen.png "Münzen")
+</details>
 
-Programmierung Level 4
+<details id="Link"><summary>Erklärung Level 4</summary>
 
 ![Level 4](Bilder/Programmierung_Level4_I.png "Level 4")
 
 ![Level 4](Bilder/Programmierung_Level4_II.png "Level 4")
+</details>
 </details>
 
 <h2 id="kapitel3.4">Fazit</h2>
