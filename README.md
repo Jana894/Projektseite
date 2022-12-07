@@ -81,6 +81,8 @@ Um Level 1 zu starten, muss zunächst der Levelbutton 1 geklickt werden, welcher
 
 <details id="Link"><summary>Erklärung Level 2</summary>
 
+Das Grundprinzip ist in jedem Level gleich, jedoch kommt in Level 2 das neue Element "Feuer" hinzu. Wenn die Figur das Feuer berührt, wird "restart" gebroadcastet und das Level startet von vorne, die Figur wird als an ihren Startpunkt x: -210 y: -122 zurückgesetzt. Wird Ebene 8 berührt, wird "Switch-to-Level 2.2" gebroadcastet und das "Stage Costume" ändert sich von Level 2 zu Level 2.2. Auch dieses Level endet mit Berühren der Zielflagge, wodurch "Ziel-erreicht-2" gebroadcastet wird und man zum "Stage Costume" "Level-2-geschafft" gelangt, von wo es zurück zur Levelauswahl geht (siehe Erklärung Level 1).
+
 ![Levelbutton](Bilder/Programmierung_Levelbutton_III.png "Levelbutton")
 
 ![Level 2](Bilder/Programmierung_Level2_I.png "Level 2")
