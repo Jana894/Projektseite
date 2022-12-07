@@ -70,6 +70,8 @@ Nachdem man ein Level beendet hat, gelangt man zum "Stage Costume" "Level ... ge
 
 <details id="Link"><summary>Erklärung Level 1</summary>
 
+Um Level 1 zu starte, muss zunächst der Levelbutton 1 geklickt werden, welcher daraufhin "Start-Level-1" broadcastet und zum "Stage Costume" Level 1 wechselt. Hier kommen dann wieder unsere "Blocks" zum Einsatz, die alles "hiden", was nicht zum Level 1.1 gehört. Durch das Bewegen der Figur (siehe Erklärung Figur) gelangt man von Hindernis zu Hindernis und sobald man Ebene 3 erreicht, wir "Switch-to-Level 1.2" gebroadcastet und das "Stage Costume" wird zu Level 1.2 geändert und nun alle Elemente "gehidet", die nicht zum Level 1.2 gehören. Berührt die Figur nun die Zielflagge, wird "Ziel-erreicht" gebroadcastet und das "Costume" zu "Level-1-geschafft" geändert. Von dort gelangt man zurück zur Levelauswahl und kann die nächsten Level spielen (siehe Erklärung allgemeine Befehle).
+  
 ![Levelbutton](Bilder/Programmierung_Levelbutton_I.png "Levelbutton")
   
 ![Level 1](Bilder/Programmierung_Level1_I.png "Level 1")
