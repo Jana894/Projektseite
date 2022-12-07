@@ -42,43 +42,43 @@ Das Thema unseres 2D-Spiels ist "Dschungel", Level 1 bis 3 stellen hierbei den D
 
 Unsere Figur bewegt sich, indem man sie mit den Tasten "a, d, w" steuert. Mit der "d"-Taste geht die Figur nach vorne, mit der "a"-Taste wieder zurück und druckt man die "w"-Taste, springt unsere Figur.
 
-![Figur](bilder/Bewegungen_der_Figur.png "Figur")
+![Figur](Bilder/Bewegungen_der_Figur.png "Figur")
 
 Programmierung Musik
 
-![Musik](bilder/Programmierung_Musik.png "Musik")
+![Musik](Bilder/Programmierung_Musik.png "Musik")
 
 Programmierung allgemeine Befehle
 
-![allgemeine Befehle](bilder/Programmierung_allgemeiner_Befehle.png "allgemeine Befehle")
+![allgemeine Befehle](Bilder/Programmierung_allgemeiner_Befehle.png "allgemeine Befehle")
 
 Programmierung Level 1
 
-![Level 1](bilder/Programmierung_Level1_I.png "Level 1")
+![Level 1](Bilder/Programmierung_Level1_I.png "Level 1")
 
-![Level 1](bilder/Programmierung_Level1_II.png "Level 1")
+![Level 1](Bilder/Programmierung_Level1_II.png "Level 1")
 
 Programmierung Level 2
 
-![Level 2](bilder/Programmierung_Level2_I.png "Level 2")
+![Level 2](Bilder/Programmierung_Level2_I.png "Level 2")
 
-![Level 2](bilder/Programmierung_Level2_II.png "Level 2")
+![Level 2](Bilder/Programmierung_Level2_II.png "Level 2")
 
 Programmierung Level 3
 
-![Level 3](bilder/Programmierung_Level3_I.png "Level 3")
+![Level 3](Bilder/Programmierung_Level3_I.png "Level 3")
 
-![Level 3](bilder/Programmierung_Level3_II.png "Level 3")
+![Level 3](Bilder/Programmierung_Level3_II.png "Level 3")
 
-![Münzen](bilder/Programmierung_Münzen.png "Münzen")
+![Münzen](Bilder/Programmierung_Münzen.png "Münzen")
 
 Programmierung Level 4
 
-![Level 4](bilder/Programmierung_Level4_I.png "Level 4")
+![Level 4](Bilder/Programmierung_Level4_I.png "Level 4")
 
-![Level 4](bilder/Programmierung_Level4_II.png "Level 4")
+![Level 4](Bilder/Programmierung_Level4_II.png "Level 4")
 
-![Level 4](bilder/Programmierung_Level4_III.png "Level 4")
+![Level 4](Bilder/Programmierung_Level4_III.png "Level 4")
 </details>
 
 <h2 id="kapitel3.4">Fazit</h2>
