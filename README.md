@@ -105,6 +105,8 @@ Auch in diesem Level bleibt das Grundprinzip bestehen, jedoch gibt es zwei neue 
 
 <details id="Link"><summary>Erklärung Level 4</summary>
 
+In unserem letzten Level haben wir erneut ein Feuer eingebaut, bei welchem sich die Programmierung jedoch nicht verändert hat (siehe Erklärung Level 2). Neu hinzu ist das Element "Mauer" gekommen, durch welche die Figur nicht hindurch laufen kann, sondern drüber springen muss. Berührt unsere Figur Ebene 26 und Ebene 30 werden "Switch-to-Level 4.2" und "Switch-to-Level 4.3" gebroadcastet und die "Stage Costumes" wechseln von Level 4 zu Level 4.2 und dann zu Level 4.3. In diesem Level gibt es wieder eine Zielflagge, und wenn unsere Figur diese berührt, wird "Ziel-erreicht-4" gebroadcastet und man gelangt wie schon in den vorherigen Leveln zurück zur Levelauswahl.
+
 ![Levelbutton](Bilder/Programmierung_Levelbutton_V.png "Levelbutton")
 
 ![Level 4](Bilder/Programmierung_Level4_I.png "Level 4")
