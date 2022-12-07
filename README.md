@@ -75,7 +75,7 @@ Programmierung Level 3
 Programmierung Level 4
 
 ![Level 4](Bilder/Programmierung_Level4_I.png "Level 4")
-![Level 4](Bilder/Programmierung_Level4_II.png "Level 4")
+
 </details>
 
 <h2 id="kapitel3.4">Fazit</h2>
