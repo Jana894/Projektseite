@@ -58,17 +58,20 @@ Die Musik in unserem Spiel haben Bente und ihr Bruder mithilfe von "FL-Studio" e
 
 <details id="Link"><summary>Erklärung allgemeine Befehle</summary>
 
+Für den Startbildschirm, welcher den Beginn unseres 2D-Spiels darstellt, haben wir zunächst ein eigenes "Stage Costume" erstellt und danach eigene "Blocks", welche die einzelnen "Sprites" der jeweiligen "Stage Costumes" "hiden" oder "shown", wobei für den Startbildschirm alles "gehidet" werden muss außer das was zum Startbildschirm dazugehört. Klickt man nun den Startknopf wird "StartGame" gebroadcastet, was zum Wechsel zum "Costume" "Levelauswahl" führt, wo erneut alle Elemente außer die "gehidet" werden müssen, welche für diesen Bildschirm wichtig sind. 
+Nachdem man ein Level beendet hat, gelangt man zum "Stage Costume" "Level ... geschafft", wo ebenfalls durch einen "Knopf" ein Broadcast verbreitet wird ("zurück zur Levelauswahl"), welcher das "Stage Costume" zurück in das der Levelauswahl ändert.
+  
 ![allgemeine Befehle](Bilder/Programmierung_allgemeiner_Befehle.png "allgemeine Befehle")
 
 ![Startknopf](Bilder/Programmierung_Startknopf.png "Startknopf")
-
-![Levelbutton](Bilder/Programmierung_Levelbutton_I.png "Levelbutton")
 
 ![zurück zur Levelauswahl](Bilder/Programmierung_zurück-zur-Levelauswahl.png "zurück zur Levelauswahl")
 </details>
 
 <details id="Link"><summary>Erklärung Level 1</summary>
 
+![Levelbutton](Bilder/Programmierung_Levelbutton_I.png "Levelbutton")
+  
 ![Level 1](Bilder/Programmierung_Level1_I.png "Level 1")
 
 ![Level 1](Bilder/Programmierung_Level1_II.png "Level 1")
