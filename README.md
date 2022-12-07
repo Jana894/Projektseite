@@ -50,11 +50,17 @@ Unsere Figur bewegt sich, indem man sie mit den Tasten "a", "d" und "w" steuert.
 <details id="Link"><summary>Erklärung Musik</summary>
 
 ![Musik](Bilder/Programmierung_Musik.png "Musik")
+
+![Levelbutton](Bilder/Programmierung_Levelbutton_II.png "Levelbutton")
 </details>
 
 <details id="Link"><summary>Erklärung allgemeine Befehle</summary>
 
 ![allgemeine Befehle](Bilder/Programmierung_allgemeiner_Befehle.png "allgemeine Befehle")
+
+![Startknopf](Bilder/Programmierung_Startknopf.png "Startknopf")
+
+![Levelbutton](Bilder/Programmierung_Levelbutton_I.png "Levelbutton")
 </details>
 
 <details id="Link"><summary>Erklärung Level 1</summary>
