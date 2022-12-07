@@ -21,7 +21,7 @@ Für die äußere Gestaltung haben wir uns mit dem Pixelzeichner "pixilart" besc
 
 ![logo FL-Studio](Bilder/FL_Studio_Logo.jpg "Logo FL-Studio")
 
-Für die Musik in unserem 2D-Spiel hat Bente sich zusammen mit ihrem Bruder mit "FL-Studio" beschäftigt.
+Für die Musik in unserem 2D-Spiel hat Bente sich zusammen mit ihrem Bruder mit "FL-Studio" beschäftigt. FL-Studio ist eine "Digital Audio Workstation", was bedeutet, dass Audiosignale erzeugt und bearbeitet werden können. Hauptsächlich wird diese "Workstation" für die Musikproduktion, das Mixing und Mastering von Musik verwendet.
 
 <h2 id="kapitel3.2">Idee</h2>
 Unsere Grundidee basiert auf einem "Jump and Run"-Spiel, in welchem eine Figur in mehreren Leveln Hindernisse überwinden und zum Ziel gelangen muss. Hierbei ist es uns wichtig, dass die Figur weder von unten durch die Hindernisse hindurch darauf springen kann, noch von einem Hindernis zum nächsten Hindrnis in der Luft laufen kann. Es muss also eine Schwerkraft oder Gravitationskraft erstellt werden, genauso wie undurchdringbare Hindernisse.
@@ -36,38 +36,49 @@ Unsere Grundidee basiert auf einem "Jump and Run"-Spiel, in welchem eine Figur i
 <h2 id="kapitel3.3">Ergebnis</h2>
 Unser 2D-Spiel ist ein "Jump and Run"-Spiel mit vier verschiedenen Leveln geworden. Pro Level kommt ein neues Element hinzu, welches das Level anspruchsvoller und spannnender gestalten soll.
 So ist im ersten Level das Ziel, die Zielflagge zu erreichen, in dem man von Hindernis zu Hindernis springt, was im ersten Moment noch nicht allzu schwierig erscheint. Im zweiten Level dann, haben wir noch ein Feuer eingebaut, in welchem die Figur "verbrennt", sobald sie es berührt und das Level von vorne beginnen muss. Im dritten Level ist das Ziel zwei Münzen einzusammeln, wobei wir drei Münzen eingebaut haben, damit man mehrere Kombinationsmöglichkeiten hat. Sind die zwei Münzen eingesammelt ist das Level geschafft und man wird weiter geleitet. Im vierten und letzten Level dann, muss die Figur über Mauern springen, um ans Ziel zu gelangen, wobei wir auch hier ein Feuer eingebaut haben, welches die Figur, sobald sie es brührt, zwingt von vorne zu beginnen.
-Das Thema unseres 2D-Spiels ist "Dschungel", jedes Level variiert hiebei ein bisschen und Level 4 stellt das Ende des Dschungels dar, weil schon erste Mauern zu finden sind und auf den Felsen (Ebenen) nur noch ein bisschen Moos wächst und keine Lianen mehr hängen.
+Das Thema unseres 2D-Spiels ist "Dschungel", Level 1 bis 3 stellen hierbei den Dschungel mit Lianen und viel grün dar und Level 4 das Ende des Dschungels, da schon erste Mauern zu finden sind und auf den Felsen (Ebenen) nur noch ein bisschen Moos wächst und keine Lianen mehr hängen.
 
-<details id="Link"><summary>Ergebnis</summary>
+<details id="Link"><summary>Erklärung Ergebnis</summary>
 
-Programmierung allgemeiner Befehle
+Unsere Figur bewegt sich, indem man sie mit den Tasten "a, d, w" steuert. Mit der "d"-Taste geht die Figur nach vorne, mit der "a"-Taste wieder zurück und druckt man die "w"-Taste, springt unsere Figur.
 
-![Screenshot Snap](Bilder/screenshot_snap_41.png "Screenshot Snap")
-![Screenshot Snap](Bilder/screenshot_snap_45.png "Screenshot Snap")
-  
-![Screenshot Snap](Bilder/screenshot_snap_23.png "Screenshot Snap")
+![Figur](bilder/Bewegungen_der_Figur.png "Figur")
+
+Programmierung Musik
+
+![Musik](bilder/Programmierung_Musik.png "Musik")
+
+Programmierung allgemeine Befehle
+
+![allgemeine Befehle](bilder/Programmierung_allgemeiner_Befehle.png "allgemeine Befehle")
 
 Programmierung Level 1
 
-![Screenshot Snap](Bilder/screenshot_snap_42.png "Screenshot Snap")
-![Screenshot Snap](Bilder/screenshot_snap_22.png "Screenshot Snap")
+![Level 1](bilder/Programmierung_Level1_I.png "Level 1")
+
+![Level 1](bilder/Programmierung_Level1_II.png "Level 1")
 
 Programmierung Level 2
 
-![Screenshot Snap](Bilder/screenshot_snap_43.png "Screenshot Snap")
-![Screenshot Snap](Bilder/screenshot_snap_25.png "Screenshot Snap")
+![Level 2](bilder/Programmierung_Level2_I.png "Level 2")
+
+![Level 2](bilder/Programmierung_Level2_II.png "Level 2")
 
 Programmierung Level 3
 
-![Screenshot Snap](Bilder/screenshot_snap_44.png "Screenshot Snap")
-![Screenshot Snap](Bilder/screenshot_snap_46.png "Screenshot Snap")
-![Screenshot Snap](Bilder/screenshot_snap_47.png "Screenshot Snap")
+![Level 3](bilder/Programmierung_Level3_I.png "Level 3")
+
+![Level 3](bilder/Programmierung_Level3_II.png "Level 3")
+
+![Münzen](bilder/Programmierung_Münzen.png "Münzen")
 
 Programmierung Level 4
 
-![Screenshot Snap](Bilder/screenshot_snap_38.png "Screenshot Snap")
-![Screenshot Snap](Bilder/screenshot_snap_39.png "Screenshot Snap")
-![Screenshot Snap](Bilder/screenshot_snap_40.png "Screenshot Snap")
+![Level 4](bilder/Programmierung_Level4_I.png "Level 4")
+
+![Level 4](bilder/Programmierung_Level4_II.png "Level 4")
+
+![Level 4](bilder/Programmierung_Level4_III.png "Level 4")
 </details>
 
 <h2 id="kapitel3.4">Fazit</h2>
