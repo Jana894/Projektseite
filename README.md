@@ -92,6 +92,8 @@ Das Grundprinzip ist in jedem Level gleich, jedoch kommt in Level 2 das neue Ele
 
 <details id="Link"><summary>Erklärung Level 3</summary>
 
+Auch in diesem Level bleibt das Grundprinzip bestehen, jedoch gibt es zwei neue Aspekte, die dieses Level von den anderen unterscheiden. Zum Einen, dass die Figur in diesem Level Münzen einsammeln muss, wobei jenachdem, um welche Münze es sich handelt, "Münze [...] einsammeln" gebroadcastet wird, wodurch die Münze die Information bekommt, sich zu "hiden". Zum Anderen endet dieses Level nich mit Berühren der Zielflagge, sondern wenn genau zwei Münzen eingesammelt wurden, wofür wir eine neue Variable "Anzahl-Münzen" erstellt haben. Wenn diese "Anzahl-Münzen" dann genau zwei ist, wird "Ziel-erreicht-3" gebroadcastet und ab dort ist der Ablauf dann exakt der gleiche, wie in Level 1 und 2.
+
 ![Levelbutton](Bilder/Programmierung_Levelbutton_IV.png "Levelbutton")
 
 ![Level 3](Bilder/Programmierung_Level3_I.png "Level 3")
