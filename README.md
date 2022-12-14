@@ -50,6 +50,7 @@ Unsere Figur bewegt sich, indem man sie mit den Tasten "a", "d" und "w" steuert.
 <details id="Link"><summary>Erklärung Musik</summary>
 
 Die Musik in unserem Spiel haben Bente und ihr Bruder mithilfe von "FL-Studio" erstellt. Wenn unser Spiel beginnt, fängt zunächst der "Startsound" an sich abzuspielen, wählt man nun ein Level aus und klickt den "Levelbutton", wir "play-Gamesound" vom jeweiligen "Levelbutton" gebroadcastet und der Sound wechselt zum "Gamesound". Erreicht man nun in den einzelnen Level das Ziel, wechselt der Sound wieder zum "Startsound" mit dem Wechsel zur "Stage" mit dem "zurück zur Levelauswahl"-Button und ein neuer Broadcast signalisiert den Wechsel. Dieser Broadcast ist der selbe, wie der, der die einzelnen Level beendet (Erklärung siehe "Erklärung Level 1").
+Um beide Sounds gut hören zu können, muss die Lautstärke auf dem jeweiligen Gerät auf circa 50 gestellt werden, da der "Start-Sound" lauter als der "Game-Sound" ist, damit man sich während der einzelnen Level besser konzentrieren kann.
   
 ![Musik](Bilder/Programmierung_Musik.png "Musik")
 
