@@ -60,12 +60,15 @@ Die Musik in unserem Spiel haben Bente und ihr Bruder mithilfe von "FL-Studio" e
 
 Für den Startbildschirm, welcher den Beginn unseres 2D-Spiels darstellt, haben wir zunächst ein eigenes "Stage Costume" erstellt und danach eigene "Blocks", welche die einzelnen "Sprites" der jeweiligen "Stage Costumes" "hiden" oder "shown", wobei für den Startbildschirm alles "gehidet" werden muss außer das was zum Startbildschirm dazugehört. Klickt man nun den Startknopf wird "StartGame" gebroadcastet, was zum Wechsel zum "Costume" "Levelauswahl" führt, wo erneut alle Elemente außer die "gehidet" werden müssen, welche für diesen Bildschirm wichtig sind. 
 Nachdem man ein Level beendet hat, gelangt man zum "Stage Costume" "Level ... geschafft", wo ebenfalls durch einen "Knopf" ein Broadcast verbreitet wird ("zurück zur Levelauswahl"), welcher das "Stage Costume" zurück in das der Levelauswahl ändert.
+Wir haben auch noch einen Pop-up programmiert, der zu Beginn jedes Levels erscheint und dem Spieler mitteilt, dass die "space"-Taste gedrückt werden muss, damit die Figur erscheint und man das Spiel spielen kann. Hierfür wird die "Sprite" "gehidet", wenn man das Spiel beginnt bzw. die "space"-Taste gedrückt wird. Die "Sprite wird "geshowed", wenn der Broadcast zum Starten eines Levels gebroadcastet wird.
   
 ![allgemeine Befehle](Bilder/Programmierung_allgemeiner_Befehle.png "allgemeine Befehle")
 
 ![Startknopf](Bilder/Programmierung_Startknopf.png "Startknopf")
 
 ![zurück zur Levelauswahl](Bilder/Programmierung_zurück-zur-Levelauswahl.png "zurück zur Levelauswahl")
+
+![Pop up](Bilder/Programmierung_Pop-up.png "Pop up")
 </details>
 
 <details id="Link"><summary>Erklärung Level 1</summary>
